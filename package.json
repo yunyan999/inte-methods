@@ -1,0 +1,23 @@
+{
+  "name": "inte-methods",
+  "version": "1.0.0",
+  "description": "inte methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunyan999/inte-methods.git"
+  },
+  "keywords": [
+    "common",
+    "method"
+  ],
+  "author": "maoyungui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunyan999/inte-methods/issues"
+  },
+  "homepage": "https://github.com/yunyan999/inte-methods#readme"
+}
